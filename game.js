@@ -20,7 +20,7 @@ ctx.fillStyle = "blue";
  
   if (moveX >= 400)
   {
-    speedX = -3;
+    speedX = -1;
   } 
 
  if (moveX <= 0)
